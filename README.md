@@ -19,7 +19,7 @@
 - 🏡 **[Wanderlust](#)** — A full-stack villa & hotel rental website with authentication, reviews, and listings.  
 - 🏨 **[Hotel & Rental Listings](#)** — Created dynamic property listings with descriptions, reviews, and user access control.  
 
-*(Check my repositories for more 👉 [here](https://github.com/YourGitHubUsername))*
+*(Check my repositories for more 👉 [here](https://github.com/bijeshhh))*
 
 ---
 
@@ -30,7 +30,7 @@
 ---
 
 ## 🤝 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/YourLinkedInProfile)  
+- 💼 [LinkedIn](www.linkedin.com/in/bijesh-3988j)  
 - 📧 bijeshjangid351@gamil.com  
 
 ---
